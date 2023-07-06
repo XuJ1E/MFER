@@ -1,4 +1,4 @@
-# MSh_FER
+# MFER
 The project of MFER.  
 And we add the t-SNE version of python and the torch, also torchvision  
 
