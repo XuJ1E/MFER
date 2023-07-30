@@ -42,6 +42,6 @@ w DSF Loss
 Our research code is released under the MIT license. See [LICENSE](./LICENSE) for details.
 
 
-## Grad CAM++ Reproduction
+## Acknowledgement
 Thanks for the code of the following:\
 https://github.com/facebookresearch/ConvNeXt
