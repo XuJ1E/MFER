@@ -17,7 +17,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from attention import Attention
+from model.attention import Attention
 from timm.models.layers import trunc_normal_, DropPath
 from timm.models.registry import register_model
 
