@@ -10,13 +10,10 @@ Architecture of DS attention
 ## Preparation
 - Download pre-trained model of [MSCeleb](https://drive.google.com/file/d/1H421M8mosIVt8KsEWQ1UuYMkQS8X1prf/view?usp=sharing).
 - Download [RAF-DB](http://www.whdeng.cn/raf/model1.html) dataset and extract the `raf-basic` dir to `./datasets`
-- Download [AffectNet](http://mohammadmahoor.com/affectnet/) dataset and extract the `AffectNet` dir  to `./datasets` 
 
-  
 
 ## Training
 We will provide the training code for RAF-DB.
-
 
 ```
 CUDA_VISIBLE_DEVICES=0 Coming soon.
