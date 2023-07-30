@@ -1,7 +1,6 @@
 # Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Atention
 
-<div align=center><img src="(./src/MFER.jpg)"></div>
-
+![MFER](./src/MFER.jpg)\
 Architecture of Multi-scale Facial expression Recognition (MFER) model based on DS attention
 
 ![attention](./src/attention.jpg)\
