@@ -13,7 +13,7 @@ Architecture of DS attention
 
 
 ## Training
-We will provide the training code for RAF-DB.
+We will fix the training code for RAF-DB.
 
 ```
 CUDA_VISIBLE_DEVICES=0 Coming soon.
