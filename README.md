@@ -9,7 +9,20 @@ Architecture of DS attention
 
 ## Preparation
 - Download pre-trained model of [MSCeleb](https://drive.google.com/file/d/1H421M8mosIVt8KsEWQ1UuYMkQS8X1prf/view?usp=sharing).
-- Download [RAF-DB](http://www.whdeng.cn/raf/model1.html) dataset and extract the `raf-basic` dir to `./datasets`
+- Download [RAF-DB](http://www.whdeng.cn/raf/model1.html) dataset and extract the `raf-basic` dir to `./datasets`.
+- Download [AffectNet](http://mohammadmahoor.com/affectnet/) dadtaset and extract the `AffectNet` dir to `./datasets`.
+- Then `preprocess` the datasets as follow:
+```
+  - data/raf-db/
+		 train/
+		     train_00001_aligned.jpg
+		     train_00002_aligned.jpg
+		     ...
+		 valid/
+		     test_0001_aligned.jpg
+		     test_0002_aligned.jpg
+		     ...
+ ```
 
 
 ## Training
@@ -44,4 +57,6 @@ Our research code is released under the MIT license. See [LICENSE](./LICENSE) fo
 
 ## Acknowledgement
 Thanks for the code of the following:\
-https://github.com/facebookresearch/ConvNeXt
+https://github.com/facebookresearch/ConvNeXt.
+https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+
