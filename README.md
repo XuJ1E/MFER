@@ -12,15 +12,18 @@ Architecture of DS attention
 - Download [RAF-DB](http://www.whdeng.cn/raf/model1.html) dataset and extract the `raf-basic` dir to `./datasets`.
 - Download [AffectNet](http://mohammadmahoor.com/affectnet/) dadtaset and extract the `AffectNet` dir to `./datasets`.
 - Then `preprocess` the datasets as follow:
+### Data preparation:
+- We use the face alignment codes in [face.evl](https://github.com/ZhaoJ9014/face.evoLVe/#Face-Alignment) to align face images first.
+- the `aligned` face struct as follow:
 ```
   - data/raf-db/
 		 train/
-		     train_00001_aligned.jpg
-		     train_00002_aligned.jpg
+		     train_00001_aligned.jpg	# aligned by MTCNN
+		     train_00002_aligned.jpg	# aligned by MTCNN
 		     ...
 		 valid/
-		     test_0001_aligned.jpg
-		     test_0002_aligned.jpg
+		     test_0001_aligned.jpg	# aligned by MTCNN
+		     test_0002_aligned.jpg	# aligned by MTCNN
 		     ...
  ```
 
