@@ -29,7 +29,7 @@ Architecture of DS attention
 
 
 ## Training
-We will fix the training code for RAF-DB.
+We will release the training code for RAF-DB after the paper accept.
 
 ```
 CUDA_VISIBLE_DEVICES=0 Coming soon.
@@ -60,6 +60,6 @@ Our research code is released under the MIT license. See [LICENSE](./LICENSE) fo
 
 ## Acknowledgement
 Thanks for the code of the following:\
-https://github.com/facebookresearch/ConvNeXt.
-https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+[ConvNext](https://github.com/facebookresearch/ConvNeXt.)
+[WZMIAOMIAO](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
