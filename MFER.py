@@ -115,11 +115,11 @@ class ConvNeXt(nn.Module):
             cur += depths[i]
 
         self.norm = nn.LayerNorm(dims[-1], eps=1e-6)  # final norm layer
-        self.head = nn.Linear(dims[-1], num_classes)
+        #self.head = nn.Linear(dims[-1], num_classes)
 
         self.apply(self._init_weights)
-        self.head.weight.data.mul_(head_init_scale)
-        self.head.bias.data.mul_(head_init_scale)
+        #self.head.weight.data.mul_(head_init_scale)
+        #self.head.bias.data.mul_(head_init_scale)
 
     def _init_weights(self, m):
         if isinstance(m, (nn.Conv2d, nn.Linear)):
@@ -134,8 +134,8 @@ class ConvNeXt(nn.Module):
 
     def forward(self, x):
         feature = self.forward_features(x)
-        x = self.head(feature)
-        return feature, x
+        #x = self.head(feature)
+        return feature
 
 
 class LayerNorm(nn.Module):
