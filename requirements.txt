@@ -7,4 +7,9 @@ opencv-python=4.6.0.66=pypi_0
 numpy=1.24.3=py38hf6e8229_1
 pytorch=1.12.1=py3.8_cuda11.3_cudnn8.3.2_0
 torchvision=0.13.1=py38_cu113
-torchsampler
+torchsampler=0.1.2=pypi_0
+torchcam=0.3.2=pypi_0
+scikit-learn=1.0.2=py37hf11a4ad_1
+opencv-contrib-python=4.7.0.72=pypi_0
+opencv-python=4.7.0.72=pypi_0=
+opencv-python-headless=4.7.0.72=pypi_0
