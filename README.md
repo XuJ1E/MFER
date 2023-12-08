@@ -32,7 +32,7 @@ Architecture of DS attention
 We will release the training code for RAF-DB after the paper accept.
 
 ```
-CUDA_VISIBLE_DEVICES=0 Coming soon.
+CUDA_VISIBLE_DEVICES=0 python train.py --help
 ```
 
 ## Models
