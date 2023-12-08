@@ -56,10 +56,10 @@ w DSF Loss
 
 ## License
 Our research code is released under the MIT license. See [LICENSE](./LICENSE) for details.
-
+And the remain file or code will release soon!!!!!!
 
 ## Acknowledgement
 Thanks for the code of the following:\
-[ConvNext](https://github.com/facebookresearch/ConvNeXt.)
+[ConvNext](https://github.com/facebookresearch/ConvNeXt.) and 
 [WZMIAOMIAO](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
