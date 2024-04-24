@@ -27,9 +27,10 @@ Architecture of DS attention
 		     ...
  ```
 
+## Note:
+the remain file or code (DSF Loss function and the pretrained ConvNext model on Ms-Celeb-1M dataset will release after the paper was accepted)
 
 ## Training
-We will release the training code for RAF-DB after the paper accept.
 
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py --help
