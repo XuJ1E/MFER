@@ -20,3 +20,6 @@ class LabelSmoothingCrossEntropy(nn.Module):
         smooth_loss = -logprobs.mean(dim=-1)
         loss = self.confidence * nll_loss + self.smoothing * smooth_loss
         return loss.mean()
+
+
+# The DSF Loss will release soon after the paper was accept!!!
