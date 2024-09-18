@@ -10,7 +10,7 @@ Fig. 1 Architecture of Multiscale Facial Expression Recognition based on Dynamic
 
 
 <div align=center>
-<img src="./asset/Fig_2_Architecture_of_DS_attention.png" width="300" height="320" />
+<img src="./asset/Fig_2_Architecture_of_DS_attention.png" width="400" height="420" />
 
 
 Fig. 2 Architecture of Dynamic Global and Static Local Attention
@@ -63,9 +63,9 @@ Baseline model for data distribution on RAF-DB
 </div>
 
 <div align=center>
-<img src="./asset/Fig_3(a).png" width="180" height="180" />
-<img src="./asset/Fig_3(b).png" width="180" height="180" />
-<img src="./asset/Fig_3(c).png" width="180" height="180" />
+<img src="./asset/Fig_3(a).png" width="260" height="260" />
+<img src="./asset/Fig_3(b).png" width="260" height="260" />
+<img src="./asset/Fig_3(c).png" width="260" height="260" />
 
 
 Fig. 3(a) w/o Feature Loss 	\;	{1cm}	(b) w LGM Loss 	\;	(c) w DSF Loss
@@ -75,9 +75,9 @@ Fig. 3(a) w/o Feature Loss 	\;	{1cm}	(b) w LGM Loss 	\;	(c) w DSF Loss
 MFER model for data distribution on RAF-DB
 </div>
 <div align=center>
-<img src="./asset/Fig_4(a).png" width="180" height="180" />
-<img src="./asset/Fig_4(b).png" width="180" height="180" />
-<img src="./asset/Fig_4(c).png" width="180" height="180" />
+<img src="./asset/Fig_4(a).png" width="260" height="260" />
+<img src="./asset/Fig_4(b).png" width="260" height="260" />
+<img src="./asset/Fig_4(c).png" width="260" height="260" />
 
 
 Fig. 4(a) w/o Feature Loss 	\;	(b) w LGM Loss 	\;	(c) w DSF Loss
