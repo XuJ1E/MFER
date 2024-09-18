@@ -89,10 +89,10 @@ Fig. 4(a) w/o Feature Loss 	\;	(b) w LGM Loss 	\;	(c) w DSF Loss
 Confusion Matrices for MFER on RAF-DB, AffectNet-7, AffectNet-8 and FERPlus
 </div>
 <div align=center>
-<img src="./asset/Fig_7(a).png" width="180" height="180" />
-<img src="./asset/Fig_7(b).png" width="180" height="180" />
-<img src="./asset/Fig_7(c).png" width="180" height="180" />
-<img src="./asset/Fig_7(c).png" width="180" height="180" />
+<img src="./asset/Fig_7(a).png" width="200" height="200" />
+<img src="./asset/Fig_7(b).png" width="200" height="200" />
+<img src="./asset/Fig_7(c).png" width="200" height="200" />
+<img src="./asset/Fig_7(c).png" width="200" height="200" />
 
 
 Fig. 7(a) RAF-DB 	\;	(b) AffectNet-7 	\;	(c) AffectNet-7 	\;	(d) FERPlus 
