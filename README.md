@@ -68,7 +68,7 @@ Baseline model for data distribution on RAF-DB
 <img src="./asset/Fig_3(c).png" width="260" height="260" />
 
 
-Fig. 3(a) w/o Feature Loss 	\;	{1cm}	(b) w LGM Loss 	\;	(c) w DSF Loss
+Fig. 3(a) w/o Feature Loss 	\;	(b) w LGM Loss 	\;	(c) w DSF Loss
 </div>
 
 <div align=center>
