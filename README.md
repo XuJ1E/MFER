@@ -117,6 +117,22 @@ Our research code is released under the MIT license. See [LICENSE](./LICENSE) fo
 
 And the remain file or code will release soon!!!!!!
 
+
+## Reference
+you may want to cite:
+```
+@ARTICLE{10678884,
+  title={Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention}, 
+  author={Xu, Jie and Li, Yang and Yang, Guanci and He, Ling and Luo, Kexin},
+  journal={IEEE Transactions on Affective Computing}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TAFFC.2024.3458464}}
+```
+
+
 ## Acknowledgement
 Thanks for the code of the following:\
 [ConvNext](https://github.com/facebookresearch/ConvNeXt.) and 
