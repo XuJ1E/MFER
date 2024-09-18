@@ -63,9 +63,9 @@ Baseline model for data distribution on RAF-DB
 </div>
 
 <div align=center>
-<img src="./asset/Fig_3(a).png" width="280" height="280" />
-<img src="./asset/Fig_3(b).png" width="280" height="280" />
-<img src="./asset/Fig_3(c).png" width="280" height="280" />
+<img src="./asset/Fig_3(a).png" width="180" height="180" />
+<img src="./asset/Fig_3(b).png" width="180" height="180" />
+<img src="./asset/Fig_3(c).png" width="180" height="180" />
 
 
 Fig. 3(a) w/o Feature Loss 	\;	{1cm}	(b) w LGM Loss 	\;	(c) w DSF Loss
@@ -75,9 +75,9 @@ Fig. 3(a) w/o Feature Loss 	\;	{1cm}	(b) w LGM Loss 	\;	(c) w DSF Loss
 MFER model for data distribution on RAF-DB
 </div>
 <div align=center>
-<img src="./asset/Fig_4(a).png" width="280" height="280" />
-<img src="./asset/Fig_4(b).png" width="280" height="280" />
-<img src="./asset/Fig_4(c).png" width="280" height="280" />
+<img src="./asset/Fig_4(a).png" width="180" height="180" />
+<img src="./asset/Fig_4(b).png" width="180" height="180" />
+<img src="./asset/Fig_4(c).png" width="180" height="180" />
 
 
 Fig. 4(a) w/o Feature Loss 	\;	(b) w LGM Loss 	\;	(c) w DSF Loss
@@ -89,10 +89,10 @@ Fig. 4(a) w/o Feature Loss 	\;	(b) w LGM Loss 	\;	(c) w DSF Loss
 Confusion Matrices for MFER on RAF-DB, AffectNet-7, AffectNet-8 and FERPlus
 </div>
 <div align=center>
-<img src="./asset/Fig_7(a).png" width="240" height="240" />
-<img src="./asset/Fig_7(b).png" width="240" height="240" />
-<img src="./asset/Fig_7(c).png" width="240" height="240" />
-<img src="./asset/Fig_7(c).png" width="240" height="240" />
+<img src="./asset/Fig_7(a).png" width="180" height="180" />
+<img src="./asset/Fig_7(b).png" width="180" height="180" />
+<img src="./asset/Fig_7(c).png" width="180" height="180" />
+<img src="./asset/Fig_7(c).png" width="180" height="180" />
 
 
 Fig. 7(a) RAF-DB 	\;	(b) AffectNet-7 	\;	(c) AffectNet-7 	\;	(d) FERPlus 
@@ -104,7 +104,7 @@ Fig. 7(a) RAF-DB 	\;	(b) AffectNet-7 	\;	(c) AffectNet-7 	\;	(d) FERPlus
 Grad-CAM for MFER on RAF-DB dataset
 </div>
 <div align=center>
-<img src="./asset/Fig_8_Grad-CAM.png" width="500" height="650" />
+<img src="./asset/Fig_8_Grad-CAM.png" width="500" height="600" />
 
 
 Fig. 8 Grad-CAM
