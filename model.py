@@ -4,7 +4,7 @@
 # Time       ：2023/7/6 17:21
 # Author     ：XuJ1E
 # version    ：python 3.8
-# File       : MFER.py
+# File       : model.py
 """
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 
