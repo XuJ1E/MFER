@@ -1,1 +1,2 @@
-Process the dataset into the ImgageFolder(PyTorch) standard format
+raf_dataset.py file for originial RAF-DB dataset.
+We process the RAF-DB dataset into the ImgageFolder(PyTorch) standard format
