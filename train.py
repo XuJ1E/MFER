@@ -8,7 +8,7 @@ from torchvision import transforms, datasets
 from models.loss_function import LabelSmoothingCrossEntropy, SmoothFunction
 from torch.utils.data import DataLoader
 from torchmetrics import Accuracy
-from MFER import convnext_base
+from model import convnext_base
 from multiscale import classifier
 
 
