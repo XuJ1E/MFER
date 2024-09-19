@@ -50,12 +50,12 @@ CUDA_VISIBLE_DEVICES=0 python train.py --help
 ## 5、Models
 Pre-trained models can be downloaded for evaluation as following:
 
-|     dataset 	| accuracy 	| ckpt 	|
-|:-----------:	|:--------:	|:----:	|
-|    `RAF-DB`   	| `92.08`    	|`Coming soon`|
-| `AffectNet-8` 	| `63.15`    	|`Coming soon`|
-| `AffectNet-7` 	| `67.06`       |`Coming soon`|
-|    `FERPlus`   	| `91.09`    	|`Coming soon`|
+|   dataset   |   accuracy  |    weight   |
+|:-----------:|:-----------:|:-----------:|
+|  `RAF-DB`   | `92.08`     |`Coming soon`|
+| `AffectNet-8` | `63.15`    |`Coming soon`|
+| `AffectNet-7` | `67.06`    |`Coming soon`|
+|    `FERPlus`  | `91.09`    |`Coming soon`|
 
 ## 6、Data distribution of RAF-DB
 <div align=center>
