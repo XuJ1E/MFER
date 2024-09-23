@@ -1,4 +1,5 @@
 # Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention
+Authors: Jie Xu; Yang Li; Guanci Yang; Ling He; Kexin Luo
 
 <div align=center>
 <img src="./asset/Fig_1_Architecture_of_proposed_MFER.png" width="800" height="440" />
