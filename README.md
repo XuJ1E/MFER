@@ -1,5 +1,6 @@
 # Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention
-Authors: Jie Xu; Yang Li; Guanci Yang; Ling He; Kexin Luo
+### <div align=center> Jie Xu; Yang Li; Guanci Yang; Ling He; Kexin Luo </div>
+
 
 <div align=center>
 <img src="./asset/Fig_1_Architecture_of_proposed_MFER.png" width="800" height="440" />
@@ -40,7 +41,7 @@ Fig. 2 Architecture of Dynamic Global and Static Local Attention
  ```
 
 ## 3、Note:
-the remain file or code (DSF Loss function and the pretrained ConvNext model on Ms-Celeb-1M dataset will release after the paper was accepted)
+the remain file or code (DSF Loss function and the pretrained weights of ConvNext model on Ms-Celeb-1M dataset will release after the paper was accepted !!!)
 
 ## 4、Training
 
