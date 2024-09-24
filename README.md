@@ -1,4 +1,4 @@
-# Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention
+# <div align=center> Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention </div>
 ### <div align=center> Jie Xu; Yang Li; Guanci Yang; Ling He; Kexin Luo </div>
 
 
