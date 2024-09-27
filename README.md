@@ -1,5 +1,5 @@
 # <div align=center> Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention </div>
-### <div align=center> Jie Xu<sup>1</sup>; Yang Li<sup>1</sup>; Guanci Yang<sup>1,*</sup>; Ling He<sup>1</sup>; Kexin Luo<sup>1</sup> </div>
+### <div align=center> Jie Xu<sup>1</sup>; Yang Li<sup>1</sup>; Guanci Yang<sup>1*</sup>; Ling He<sup>1</sup>; Kexin Luo<sup>1</sup> </div>
 <div align=center> 1.Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education </div>
 
 ---
