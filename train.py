@@ -5,11 +5,11 @@ import torch
 from tqdm import tqdm
 from torch import nn
 from torchvision import transforms, datasets
-from models.loss_function import LabelSmoothingCrossEntropy, SmoothFunction
+from model.smooth_feature import LabelSmoothingCrossEntropy, SmoothFunction
 from torch.utils.data import DataLoader
 from torchmetrics import Accuracy
 from model import convnext_base
-from multiscale import classifier
+from model.multiscale import classifier
 
 
 parser = argparse.ArgumentParser(description='FER')
