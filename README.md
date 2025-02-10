@@ -25,7 +25,6 @@ Fig. 2 Architecture of Dynamic Global and Static Local Attention
 
 ## 1、Preparation
 - Download the dataset [MS-Celeb](https://service.tib.eu/ldmservice/dataset/ms-celeb-1m) for `Self-Supervised Training`.
-- NOTE: the pre-trained weight of ConvNext will release soon. 
 - Download [RAF-DB](http://www.whdeng.cn/raf/model1.html) dataset and extract the `raf-basic` dir to `./datasets`.
 - Download [AffectNet](http://mohammadmahoor.com/affectnet/) dadtaset and extract the `AffectNet` dir to `./datasets`.
 - Then `preprocess` the datasets as follow:
@@ -45,12 +44,13 @@ Fig. 2 Architecture of Dynamic Global and Static Local Attention
  ```
 
 ## 3、Note:
-the remain file or code (DSF Loss function and the pretrained weights of ConvNext model on Ms-Celeb-1M dataset will release after the paper was accepted !!!)
+- 1. The pretrained weights of ConvNext model on Ms-Celeb-1M dataset will release soon.
+- 2. The remaining code will be updated as soon as possible.
 
 ## 4、Training
 
 ```
-CUDA_VISIBLE_DEVICES=0 python train.py --help
+CUDA_VISIBLE_DEVICES=0,1 python train.py --help
 ```
 
 ## 5、Models
@@ -119,9 +119,6 @@ Fig. 8 Grad-CAM
 
 ## License
 Our research code is released under the MIT license. See [LICENSE](./LICENSE) for details.
-
-
-And the remain file or code will release soon!!!!!!
 
 
 ## Reference
