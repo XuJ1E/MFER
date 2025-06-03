@@ -44,8 +44,7 @@ Fig. 2 Architecture of Dynamic Global and Static Local Attention
  ```
 
 ## 3、Note:
-- 1. The pretrained weights of ConvNext model on Ms-Celeb-1M dataset will release soon.
-- 2. The remaining code will be updated as soon as possible.
+- The remaining code will be updated as soon as possible.
 
 ## 4、Training
 
@@ -125,13 +124,14 @@ Our research code is released under the MIT license. See [LICENSE](./LICENSE) fo
 you may want to cite:
 ```
 @ARTICLE{10678884,
-  title={Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention}, 
   author={Xu, Jie and Li, Yang and Yang, Guanci and He, Ling and Luo, Kexin},
   journal={IEEE Transactions on Affective Computing}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-14},
+  title={Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention}, 
+  year={2025},
+  volume={16},
+  number={2},
+  pages={683-696},
+  keywords={Feature extraction;Attention mechanisms;Context modeling;Facial features;Face recognition;Accuracy;Semantics;Facial Expression Recognition;attention mechanism;feature loss function;multiscale classifier;deep learning},
   doi={10.1109/TAFFC.2024.3458464}}
 ```
 
